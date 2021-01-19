@@ -6,7 +6,7 @@ var fs = require('fs')
 var path = require('path')
 var os = require('os')
 
-// fooooooo
+// fooooooooooooo
 
 var win32 = os.platform() === 'win32'
 
